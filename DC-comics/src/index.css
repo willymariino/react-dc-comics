@@ -8,6 +8,7 @@ nav ul {
   display: flex;
   list-style: none;
   gap: 20px;
+  font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
   text-transform: uppercase;
 
 }
@@ -21,6 +22,7 @@ nav ul {
 
 .logo {
   margin-top: 15px;
+  margin-bottom: 15px;
 }
 
 a {
@@ -33,4 +35,13 @@ header {
   align-items: center;
   justify-content: center;
   justify-content: space-evenly;
+
+}
+
+main {
+  background-color: black;
+}
+
+h2 {
+  color: white;
 }

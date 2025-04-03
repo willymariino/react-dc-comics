@@ -81,17 +81,21 @@ h2 {
   background-size: cover;
   background-position: center;
   display: flex;
-  max-height: 1000px;
+  max-height: 80%;
   gap: 80px;
 }
 
+.text-box {
+  width: 60%;
+}
+
 .image-box {
-  background-image: url("/img/dc-logo-bg.png");
-  background-size: contain;
-  z-index: 999;
+  width: 40%;
+}
 
-
-
+.image-box img {
+  width: 100%;
+  margin-right: 300px;
 }
 
 .footer-container {
@@ -99,7 +103,7 @@ h2 {
   flex-wrap: wrap;
   gap: 20px;
   max-width: 500px;
-  margin-left: 8%;
+  margin-left: 12%;
 }
 
 .footer-container>div {

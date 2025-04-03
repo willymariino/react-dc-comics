@@ -55,7 +55,7 @@ function FooterTop() {
             </div>
             <div class="image-box">
 
-                <img src="/img/dc-logo-bg.png" alt="" srcset="" />
+
 
             </div>
         </div>

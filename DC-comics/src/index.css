@@ -85,9 +85,12 @@ h2 {
   gap: 80px;
 }
 
-.image-box img {
-  width: 1000px;
-  height: 1400px;
+.image-box {
+  background-image: url("/img/dc-logo-bg.png");
+  background-size: contain;
+  z-index: 999;
+
+
 
 }
 

@@ -1,4 +1,4 @@
-function navbar{
+function Navbar() {
     return (
         <nav>
             <li><a href="#">Characters</a></li>
@@ -15,3 +15,5 @@ function navbar{
 
 
 }
+
+export default Navbar

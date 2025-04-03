@@ -1,4 +1,4 @@
-function header{
+function Header() {
     return (
         <header>
             <img src="dc-logo.png" alt="DC log" />
@@ -6,3 +6,5 @@ function header{
         </header >
     )
 }
+
+export default Header

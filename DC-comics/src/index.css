@@ -40,8 +40,10 @@ header {
 
 main {
   background-color: black;
+  padding: 3%;
 }
 
 h2 {
   color: white;
+  margin-left: 220px;
 }

@@ -1,8 +1,9 @@
+import Navbar from "./navbar"
 function Header() {
     return (
         <header>
-            <img src="dc-logo.png" alt="DC log" />
-            <navbar />
+            <img src="img/dc-logo.png" alt="DC log" />
+            <Navbar />
         </header >
     )
 }

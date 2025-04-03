@@ -46,4 +46,31 @@ main {
 h2 {
   color: white;
   margin-left: 220px;
+  font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.banner {
+  display: flex;
+  justify-content: center;
+  background-color: #0182f9;
+  padding: 20px;
+  gap: 50px;
+}
+
+.banner-item {
+  text-align: center;
+  color: white;
+  display: flex;
+  gap: 10px;
+}
+
+.descriptor {
+  display: flex;
+  align-items: center;
+  font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.banner-item img {
+  width: 50px;
+  height: auto;
 }

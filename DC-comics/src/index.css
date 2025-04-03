@@ -127,7 +127,37 @@ h2 {
 }
 
 .bottom-container {
+  background-color: #303030;
   display: flex;
   align-items: center;
   justify-content: space-around;
+  height: 100px;
+}
+
+.social {
+  display: flex;
+  gap: 20px;
+}
+
+.container-button {
+  border: 3px solid #1c7fdc;
+}
+
+.sign-up {
+  text-transform: uppercase;
+  background: none;
+  color: white;
+  border: none;
+  padding: 10px;
+  font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.social p {
+  display: flex;
+  align-items: center;
+  color: #1c7fdc;
+  font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
+  text-transform: uppercase;
+  margin-top: 8px;
+  /* non so perchè aggiungendo il tag strong mi ha rimosso la centratura con align items, e ho dovuto mandarlo giu con un un margine   */
 }

@@ -91,6 +91,7 @@ h2 {
 
 .image-box {
   width: 40%;
+  /* l'immagine dc ho provato anche a metterla come background, ma non compariva, quindi a mettergli uno z-index per farla stare sopra, ma niente */
 }
 
 .image-box img {
@@ -123,4 +124,10 @@ h2 {
   color: white;
   padding-top: 20px;
   font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.bottom-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
 }

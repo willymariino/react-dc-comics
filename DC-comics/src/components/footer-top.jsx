@@ -55,8 +55,8 @@ function FooterTop() {
             </div>
             <div class="image-box">
 
+                <img src="/img/dc-logo-bg.png" alt="" srcset="" />
 
-                <a href="#" class="button">Trova un partner</a>
             </div>
         </div>
 

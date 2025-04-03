@@ -8,7 +8,19 @@ nav ul {
   display: flex;
   list-style: none;
   gap: 20px;
+  text-transform: uppercase;
 
+}
+
+.comics {
+  border-bottom: 10px;
+  border-width: 10px;
+  border-color: blue;
+  color: blue;
+}
+
+.logo {
+  margin-top: 15px;
 }
 
 a {

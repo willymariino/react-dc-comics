@@ -6,9 +6,20 @@ import FooterTop from './components/footer-top'
 import FooterBottom from './components/footer-bottom'
 
 function App() {
+  const links = [
+    "Characters",
+    "comics",
+    "movies",
+    "tv",
+    "collectibles",
+    "videos",
+    "fans",
+    "news",
+    "shop"
+  ]
   return (
     <div>
-      <Header />
+      <Header links={links} />
       <Main />
       <Banner />
       <FooterTop />

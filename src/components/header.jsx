@@ -1,5 +1,5 @@
 import Navbar from "./navbar"
-function Header() {
+function Header({ links }) {
     return (
         <header>
             <img src="img/dc-logo.png" className="logo" alt="DC log" />

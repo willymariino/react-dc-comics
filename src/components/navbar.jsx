@@ -1,4 +1,5 @@
-function Navbar() {
+function Navbar({ links }) {
+    {/* riceviamo links come prop */ }
     const links = [
         "Characters",
         "comics",

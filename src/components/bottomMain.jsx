@@ -7,7 +7,7 @@ function bottomMain() {
 
             <div>
 
-                <button>load more</button>
+                <button className="load-more">load more</button>
             </div>
 
             <div>

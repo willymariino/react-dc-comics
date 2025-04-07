@@ -5,7 +5,7 @@ function comicsCardList() {
     return (
         <div className="comic-grid">
             {comics.map((comic) => (
-                <ComicsCard
+                <comicsCard
                     key={comic.id}
                     title={comic.title}
                     image={comic.thumb}

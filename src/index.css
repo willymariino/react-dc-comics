@@ -43,6 +43,17 @@ main {
   padding: 3%;
 }
 
+.top-main {
+  background-image: url("/img/jumbotron.jpg");
+  height: 300px;
+}
+
+/* aggiunta altezza per il debug */
+.bottom-main {
+  height: 200px;
+  background-color: blue;
+}
+
 h2 {
   color: white;
   margin-left: 220px;
@@ -76,7 +87,7 @@ h2 {
   height: auto;
 }
 
-.container {
+.footer-top-container {
   background-image: url("/img/footer-bg.jpg");
   background-size: cover;
   background-position: center;

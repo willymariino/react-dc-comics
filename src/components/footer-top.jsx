@@ -1,6 +1,6 @@
 function FooterTop() {
     return (
-        <div class="container">
+        <div class="footer-top-container">
             <div class="text-box">
 
                 <div className="footer-container">

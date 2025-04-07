@@ -55,26 +55,31 @@ main {
 
 /* aggiunta altezza per il debug */
 .bottom-main {
-  padding: 2rem 1rem;
+  padding-left: 10%;
+  padding-right: 10%;
+  padding-top: 2%;
 }
 
 .comic-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
-  gap: 1rem;
+  grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+  gap: 0.5rem;
   margin: 0 auto;
+
 }
 
+
+
 .card-image {
-  max-width: 50%;
+  width: 50%;
   max-height: 30%;
-  display: flex;
-  justify-content: center;
-  align-items: center;
+  object-fit: cover;
 }
 
 .comic-title {
-  font-size: 1rem;
+  margin-top: 0.5rem;
+  font-size: 0.5rem;
+  text-transform: uppercase;
 }
 
 

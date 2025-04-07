@@ -65,6 +65,11 @@ main {
   gap: 20px;
 }
 
+.card-image {
+  max-width: 50%;
+  max-height: 50%;
+}
+
 .card {
   width: calc((100% - 100px) / 6);
   flex-shrink: 0;

@@ -5,7 +5,7 @@ function bottomMain() {
         <section className="bottom-main">
             <ComicsCardList />
 
-            <div>
+            <div className="button-container">
 
                 <button className="load-more">load more</button>
             </div>

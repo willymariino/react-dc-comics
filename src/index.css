@@ -55,8 +55,7 @@ main {
 
 /* aggiunta altezza per il debug */
 .bottom-main {
-  height: 200px;
-  background-color: blue;
+  padding: 2rem 1rem;
 }
 
 .comic-grid {

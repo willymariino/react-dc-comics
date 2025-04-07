@@ -2,7 +2,7 @@ import ComicsCardList from "./comics/comicsCardLIst";
 
 function bottomMain() {
     return (
-        <section>
+        <section className="bottom-main">
             <ComicsCardList />
         </section>
     )

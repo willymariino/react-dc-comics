@@ -27,7 +27,7 @@ nav ul {
 
 a {
   text-decoration: none;
-  color: black;
+
 }
 
 header {
@@ -47,7 +47,8 @@ main {
   background-image: url("/img/jumbotron.jpg");
   background-size: cover;
   background-position: center;
-  height: 300px;
+  height: 500px;
+
 }
 
 /* aggiunta altezza per il debug */

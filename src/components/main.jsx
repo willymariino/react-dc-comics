@@ -1,13 +1,12 @@
-import topMain from "./topMain"
+import TopMain from "./topMain"
 function Main() {
     return (
         <main>
 
-            <topMain />
+            <TopMain />
 
-            <h2> -- Content goes here --</h2>
+
         </main>
     )
 }
-
 export default Main

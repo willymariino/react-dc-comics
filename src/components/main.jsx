@@ -1,4 +1,4 @@
-import topMain from "/.topMain"
+import topMain from "./topMain"
 function Main() {
     return (
         <main>

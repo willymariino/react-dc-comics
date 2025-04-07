@@ -6,3 +6,5 @@ function comicsCard({ title, image }) {
         </div>
     )
 }
+
+export default comicsCard

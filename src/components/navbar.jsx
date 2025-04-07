@@ -1,16 +1,6 @@
 function Navbar({ links }) {
     {/* riceviamo links come prop */ }
-    const links = [
-        "Characters",
-        "comics",
-        "movies",
-        "tv",
-        "collectibles",
-        "videos",
-        "fans",
-        "news",
-        "shop"
-    ]
+
     return (
         <nav>
             <ul>

@@ -59,7 +59,7 @@ const comics = [
     id: 5,
     title: "Batman #56",
     description: "The Dark Knight's looking to drop both the hammer and sickle on the KGBeast. The Russian super-assassin has gone too far, and Batman will stop at nothing to hunt him down. But is the Dark Knight willing to step into the darkness himself to find justice?",
-    thumb: "https://imgs.search.brave.com/3vP5d3cOVOuC0f6Uhm7CkV_qFk5hGj5rE4jK5I6n7dI/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9jZG4y/LnBlbmd1aW4uY29t/LmF1L2NvdmVycy9v/cmlnaW5hbC83OTYx/OTQzMTM5OTk4Lmpw/Zw",
+    thumb: "https://th.bing.com/th/id/OIP.1DoiJYf9oF8WeqKWXIZi4wHaLP?w=202&h=308&c=7&r=0&o=5&dpr=1.3&pid=1.7",
     price: "$3.99",
     series: "Batman",
     sale_date: "2018-10-03",

@@ -45,6 +45,8 @@ main {
 
 .top-main {
   background-image: url("/img/jumbotron.jpg");
+  background-size: cover;
+  background-position: center;
   height: 300px;
 }
 

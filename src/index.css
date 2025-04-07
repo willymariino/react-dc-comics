@@ -45,10 +45,10 @@ main {
 
 .top-main {
   background-image: url("/img/jumbotron.jpg");
-  background-size: contain;
+  background-size: cover;
   background-repeat: no-repeat;
-  background-position: center;
-  height: 300px;
+  background-position: top;
+  height: 400px;
   width: 100%;
 }
 

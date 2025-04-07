@@ -11,6 +11,7 @@ nav ul {
   font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
   text-transform: uppercase;
 
+
 }
 
 .comics {
@@ -27,6 +28,7 @@ nav ul {
 
 a {
   text-decoration: none;
+  color: black;
 
 }
 

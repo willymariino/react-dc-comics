@@ -1,4 +1,4 @@
-import comicsCardList from "./comics/comicsCardLIst";
+import ComicsCardList from "./comics/comicsCardLIst";
 
 function bottomMain() {
     return (

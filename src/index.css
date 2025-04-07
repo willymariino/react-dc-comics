@@ -72,7 +72,7 @@ main {
   width: calc((100% - 210px) / 6);
   flex-shrink: 0;
   max-width: 50%;
-  max-height: 100px;
+  max-height: 130px;
 
 }
 

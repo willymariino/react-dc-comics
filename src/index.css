@@ -60,9 +60,9 @@ main {
 }
 
 .comic-grid {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 20px;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: 1.5rem;
 }
 
 .card-image {
@@ -70,12 +70,7 @@ main {
   max-height: 50%;
 }
 
-.card {
-  width: calc((100% - 100px) / 6);
-  flex-shrink: 0;
-  height: 100%;
 
-}
 
 
 

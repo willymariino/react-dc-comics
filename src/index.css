@@ -91,10 +91,16 @@ main {
   justify-content: center;
 }
 
+.button-container {
+  display: flex;
+  justify-content: center;
+}
+
 .load-more {
   text-transform: uppercase;
   padding: 10px;
-  margin: 8% 50%;
+  margin-top: 8%;
+  margin-bottom: 2%;
   background-color: #1c7fdc;
 }
 

@@ -40,15 +40,16 @@ header {
 
 main {
   background-color: black;
-  padding: 3%;
+  /* padding: 3%; */
 }
 
 .top-main {
   background-image: url("/img/jumbotron.jpg");
-  background-size: cover;
+  background-size: contain;
+  background-repeat: no-repeat;
   background-position: center;
-  height: 500px;
-
+  height: 300px;
+  width: 100%;
 }
 
 /* aggiunta altezza per il debug */

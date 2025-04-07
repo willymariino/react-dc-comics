@@ -1,11 +1,11 @@
-import comicsCard from "./comicsCard";
+import ComicsCard from "./comicsCard";
 import comics from "./comics";
 
 function comicsCardList() {
     return (
         <div className="comic-grid">
             {comics.map((comic) => (
-                <comicsCard
+                <ComicsCard
                     key={comic.id}
                     title={comic.title}
                     image={comic.thumb}

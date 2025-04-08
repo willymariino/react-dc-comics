@@ -90,6 +90,7 @@ main {
   display: flex;
   justify-content: center;
   font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
+  color: white;
 }
 
 .button-container {

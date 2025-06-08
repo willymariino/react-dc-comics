@@ -14,8 +14,8 @@ Visit the live version here:
 [DC Comics + React](https://react-dc-comics.netlify.app/)
 
 ## Tech Stack
-- React 18+ 
-- Vite 4+ 
+- React 19.0.0 
+- Vite 6.2.0 
 - CSS3 
 - Netlify (for deployment)
 

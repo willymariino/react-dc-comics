@@ -1,5 +1,7 @@
 # DC Comics React Project
 
+[![Live Demo](https://img.shields.io/badge/live-demo-green)](https://react-dc-comics.netlify.app/)
+
 This project is my first exercise in React, focusing on component-based development and their integration into a webpage. The goal was to learn how to divide the application into reusable components, import them into the main page, and manage dynamic content such as cards created in separate folders.
 
 ## Features
@@ -8,12 +10,14 @@ This project is my first exercise in React, focusing on component-based developm
 - **Styling**: Custom CSS is used to style the components and layout.
 
 ## Live Demo
-Check out the live demo of the project here: [DC Comics React Live Demo](https://react-dc-comics.netlify.app/#)
+Visit the live version here: 
+[https://react-dc-comics.netlify.app/](https://react-dc-comics.netlify.app/)
 
 ## Tech Stack
-- **React**: For building the user interface.
-- **Vite**: As the development environment.
-- **CSS**: For styling the components.
+- React 18+ 
+- Vite 4+ 
+- CSS3 
+- Netlify (for deployment)
 
 ## How to Run Locally
 1. Clone the repository.

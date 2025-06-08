@@ -21,8 +21,8 @@ Visit the live version here:
 
 ## How to Run Locally
 1. Clone the repository.
-2. Install dependencies using `npm install`.
-3. Start the development server using `npm run dev`.
+2. Install dependencies using `npm install`
+3. Start the development server using `npm run dev`
 4. Open the application in your browser at the URL provided by Vite.
 
 ## Project Structure

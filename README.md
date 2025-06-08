@@ -11,7 +11,7 @@ This project is my first exercise in React, focusing on component-based developm
 
 ## Live Demo
 Visit the live version here: 
-[https://react-dc-comics.netlify.app/](https://react-dc-comics.netlify.app/)
+[DC Comics + React](https://react-dc-comics.netlify.app/)
 
 ## Tech Stack
 - React 18+ 

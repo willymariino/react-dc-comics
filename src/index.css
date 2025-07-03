@@ -69,9 +69,9 @@ main {
 }
 
 .card {
-  width: calc((100% - 210px) / 6);
-  flex-shrink: 0;
-  max-width: 50%;
+  flex: 0 0 calc(16.666% - 35px);
+  /* 100% / 6 colonne - gap */
+  max-width: calc(16.666% - 35px);
   max-height: 130px;
 
 }
@@ -80,7 +80,7 @@ main {
 .card-image {
   width: 100%;
   max-height: 100%;
-  /* object-fit: cover;  */
+  object-fit: cover;
 }
 
 .comic-title {

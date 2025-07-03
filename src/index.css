@@ -69,10 +69,10 @@ main {
 }
 
 .card {
-  flex: 0 0 calc(16.666% - 35px);
-  /* 100% / 6 colonne - gap */
-  max-width: calc(16.666% - 35px);
-  max-height: 130px;
+  flex: 0 0 calc((100% - (5 * 35px)) / 6);
+  /* 5 gap da 35px tra 6 colonne */
+  max-width: 180px;
+  height: 130px;
 
 }
 
@@ -80,7 +80,7 @@ main {
 .card-image {
   width: 100%;
   max-height: 100%;
-  object-fit: cover;
+  /* object-fit: cover; */
 }
 
 .comic-title {
@@ -227,4 +227,27 @@ h2 {
   text-transform: uppercase;
   margin-top: 8px;
   /* non so perchè aggiungendo il tag strong mi ha rimosso la centratura con align items, e ho dovuto mandarlo giu con un un margine   */
+}
+
+@media (max-width: 992px) {
+  .card {
+    flex: 0 0 calc((100% - (2 * 20px)) / 3);
+    max-width: calc((100% - (2 * 20px)) / 3);
+  }
+}
+
+@media (max-width: 600px) {
+  .comic-grid {
+    gap: 35px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+
+  }
+
+  .card {
+    flex: 0 0 100%;
+    max-width: 50%;
+
+  }
 }

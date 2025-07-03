@@ -250,4 +250,8 @@ h2 {
     max-width: 50%;
 
   }
+
+  .load-more {
+    margin-top: 10%;
+  }
 }

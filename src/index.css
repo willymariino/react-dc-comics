@@ -260,12 +260,15 @@ h2 {
     margin-top: 10%;
   }
 
+
+
   .hamburger {
     display: block;
     font-size: 2rem;
     cursor: pointer;
     user-select: none;
     padding: 0.5rem;
+
   }
 
   .nav-links {

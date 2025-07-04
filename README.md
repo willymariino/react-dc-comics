@@ -8,6 +8,7 @@ This project is my first exercise in React, focusing on component-based developm
 - **Component-based architecture**: The application is divided into multiple reusable components such as `Header`, `Main`, `Banner`, `FooterTop`, and `FooterBottom`.
 - **Dynamic content**: Cards are dynamically imported and displayed using data stored in a separate file.
 - **Styling**: Custom CSS is used to style the components and layout.
+- **Responsive design**: The application layout adapts to different screen sizes for an optimal experience on all devices.
 
 ## Live Demo
 Visit the live version here: 

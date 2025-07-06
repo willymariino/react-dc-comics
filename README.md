@@ -19,6 +19,7 @@ Visit the live version here:
 ## Tech Stack
 - React 19.0.0 
 - Vite 6.2.0 
+- JavaScript (ES6)
 - CSS3 
 - Netlify (for deployment)
 

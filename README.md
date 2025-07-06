@@ -17,11 +17,11 @@ Visit the live version here:
 [DC Comics + React](https://react-dc-comics.netlify.app/)
 
 ## Tech Stack
-- React 19.0.0 
-- Vite 6.2.0 
-- JavaScript (ES6)
-- CSS3 
-- Netlify (for deployment)
+- **React** 19.0.0 
+- **Vite** 6.2.0 
+- **JavaScript** (ES6)
+- **CSS3**
+- **Netlify** (for deployment)
 
 ## How to Run Locally
 1. Clone the repository.

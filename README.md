@@ -2,6 +2,8 @@
 
 [![Live Demo](https://img.shields.io/badge/live-demo-green)](https://react-dc-comics.netlify.app/)
 
+## Project Overview
+
 This project is my first exercise in React, focusing on component-based development and their integration into a webpage. The goal was to learn how to divide the application into reusable components, import them into the main page, and manage dynamic content such as cards created in separate folders.
 
 ## Features
